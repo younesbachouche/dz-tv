@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
+http://dino.simotvgold.com:80/play/live.php?mac=00:1A:79:c4:24:38&stream=556869&extension=m3u8&play_token=mH2ECQF7Eo
